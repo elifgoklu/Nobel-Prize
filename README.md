@@ -14,7 +14,7 @@ This project focuses on analyzing Nobel Prize winners using data cleaning, filte
 - **Gender & Age Group Analysis**: Investigated how gender and age impact the likelihood of winning in specific categories.
 - **Country-Wise Distribution**: Mapped out the distribution of Nobel laureates by country to highlight regions with the highest number of awards.
 - **Category Trends Over Time**: Analyzed the frequency of awards in different categories and how they've changed over the years.
-- **Dynamic Visualizations**: Created interactive charts and graphs to help visualize the distribution patterns and provide deeper insights into gender and category-based trends.
+- **Visualizations**: Created interactive charts and graphs to help visualize the distribution patterns and provide deeper insights into gender and category-based trends.
 
 ## Tools & Technologies
 - **Python**: Used for data processing and analysis (libraries like Pandas, Numpy).
